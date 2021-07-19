@@ -4,4 +4,4 @@ This is the first app i built using Flutter
 
 ## Snapshot
 
-[](https://user-images.githubusercontent.com/75629345/126153357-423a5404-0a09-4747-ada9-43884773deac.png)
+![Screenshot_1626653634](https://user-images.githubusercontent.com/75629345/126153433-a735bad0-2e82-42fc-94f9-cbf7bb8376ad.png)
