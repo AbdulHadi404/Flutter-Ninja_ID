@@ -1,6 +1,6 @@
 # ninja_id
 
-This is the first app i built using Flutter
+This is the 1st app i built using Flutter, learning from the [NetNinjas](https://github.com/iamshaunjp)
 
 ## Snapshot
 
